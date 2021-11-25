@@ -2,22 +2,130 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "LaunchImage.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "LaunchImage@2x.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "filename" : "LaunchImage@3x.png",
       "scale" : "3x"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "width-class" : "compact"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "width-class" : "compact"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x",
+      "width-class" : "compact"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "universal",
+      "scale" : "1x",
+      "width-class" : "compact"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "universal",
+      "scale" : "2x",
+      "width-class" : "compact"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "universal",
+      "scale" : "3x",
+      "width-class" : "compact"
+    },
+    {
+      "filename" : "1024-1.png",
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "1024.png",
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "1024-2.png",
+      "idiom" : "iphone",
+      "scale" : "3x"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "iphone",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "width-class" : "compact"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "width-class" : "compact"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "width-class" : "compact"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "width-class" : "compact"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "width-class" : "compact"
+    },
+    {
+      "height-class" : "compact",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "width-class" : "compact"
     }
   ],
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   }
 }
