@@ -8,6 +8,15 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    //TODO
+    return SafeArea(
+      child: Scaffold(
+        body: Container(),
+      ),
+    );
+    bottomNavigationBar:
+    BottomNavigationBar(
+      items: [],
+    );
   }
 }
