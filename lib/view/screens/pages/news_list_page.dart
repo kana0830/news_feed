@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:news_feed/view/compornents/search_bar.dart';
 
 class NewsListPage extends StatelessWidget {
   const NewsListPage({Key? key}) : super(key: key);
@@ -17,7 +18,7 @@ class NewsListPage extends StatelessWidget {
           child: Column(
             children: [
               //TODO 検索ワード
-              //SearchBar(),
+              SearchBar(),
               //TODO カテゴリー選択Chips
               //CategoryChips(),
               //TODO 記事表示
